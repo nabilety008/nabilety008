@@ -48,9 +48,10 @@ For questions, bug reports, or suggestions, the best route is through the
 project's GitHub issue tracker:
 
 [**TrafficLens issues**](https://github.com/nabilety008/TrafficLens/issues)
+
 ## ❤️ Support my work
 
 If you find my projects useful, you can support their continued development.
 
 - 🇮🇷 HamiBash: https://hamibash.com/nabilety008
-- 🌍 Crypto support: See the [TrafficLens README](https://github.com/nabilety008/TrafficLens#support-trafficlens) for verified USDT wallet addresses and network information.
+- 🌍 Crypto support: See the [starspeed-tunnel Support section](https://github.com/nabilety008/starspeed-tunnel.sh#user-content-support-starspeed-tunnel) for verified USDT wallet addresses and networks.
