@@ -54,4 +54,5 @@ project's GitHub issue tracker:
 If you find my projects useful, you can support their continued development.
 
 - 🇮🇷 HamiBash: https://hamibash.com/nabilety008
+- [Support on Daramet](https://daramet.com/nabilety)
 - 🌍 Crypto support: See the [starspeed-tunnel Support section](https://github.com/nabilety008/starspeed-tunnel.sh#user-content-support-starspeed-tunnel) for verified USDT wallet addresses and networks.
